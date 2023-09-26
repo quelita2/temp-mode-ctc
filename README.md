@@ -46,7 +46,7 @@ Steps of the code:
 
 ## 🔬 Prática Laboratorial
 
-In laboratory practice we work on analyzing the generation of signals using the timer, in the practical and basic example of turning on an LED. See our results by accessing [link]().
+In laboratory practice we work on analyzing the generation of signals using the timer, in the practical and basic example of turning on an LED.
 
 ## ✍️ Authors
 
